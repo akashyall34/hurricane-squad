@@ -3,7 +3,7 @@ export default function Home() {
     <div className="min-h-screen bg-blue-50 flex items-center justify-center">
       <div className="text-center">
         <h1 className="text-4xl font-bold text-blue-900 mb-4">
-          ⚡ StormSquad
+          🌀 StormSquad
         </h1>
         <p className="text-lg text-blue-700">
           Hurricane prep made social for college students
